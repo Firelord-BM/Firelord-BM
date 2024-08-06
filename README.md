@@ -5,13 +5,13 @@
 <h3 align="center">A passionate Full Stack Developer from Kenya </h3>
 <div align="center">
 
-💬 Ask me about **Node.js, React, NextJS or anything [here](https://github.com/Firelord-BM/Firelord-BM/issues)**
+💬 Ask me about **Node.js, React, Blade, PHP, Laravel or NextJS**
 
 
-🌍 I’m based in **Nakuru , Kenya**
+🌍 I’m based in **Nairobi , Kenya**
 
 
-👯 I’m looking to collaborate on **Python (Flask) ,NextJS and Express**
+👯 I’m looking to collaborate on **Python (Flask), PHP, Laravel ,NextJS and Express**
 
 
  🌱 I’m currently learning **Docker, Back-end development in Express and Flask and Front-end in NextJS,**
