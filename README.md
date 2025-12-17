@@ -5,16 +5,16 @@
 <h3 align="center">A passionate Full Stack Developer from Kenya </h3>
 <div align="center">
 
-💬 Ask me about **Node.js, React, Blade, PHP, Laravel or NextJS**
+💬 Ask me about **Java Springboot, React, Blade, PHP, Laravel or NextJS**
 
 
 🌍 I’m based in **Nairobi , Kenya**
 
 
-👯 I’m looking to collaborate on **Python (Flask), PHP, Laravel ,NextJS and Express**
+👯 I’m looking to collaborate on **Python (Flask), Java Springboot ,NextJS and Express**
 
 
- 🌱 I’m currently learning **Docker, Back-end development in Express and Flask and Front-end in NextJS,**
+ 🌱 I’m currently learning **Docker and Containerization**
 
 </div>
 
@@ -22,7 +22,7 @@
   <a href="mailto:mutumabrianm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
   </a>
-   <a href="https://www.linkedin.com/in/brian-mutuma-990940263/">
+   <a href="https://www.linkedin.com/in/brian-m-mutuma/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 </div>
